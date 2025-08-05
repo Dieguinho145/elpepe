@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
+h1, h2 {
+  color: #0056b3;
+  }
+  .si-body {
+  background-color: blueviolet;
+  }
+  
+  .no-body {
+    background-color: darkseagreen;
+  }
+
+  .nose-body {
+  background-color: greenyellow;
+  }
+
+  .io-body {
+  background-color: deeppink;
+  }
+  .imagen-pequena {
+  max-width: 200px;
+  height: auto;
+  margin: 10px;
+}
